@@ -5,7 +5,7 @@
 # Açıklama
 Bu proje herhangi bir sinema filmine bilet almak için oluşturulmuştur.Aynı zamanda bileti görüntülemek veya iptal etmek için de kullanılabilir.
 
-com.cinema.Cinema classını çalıştırarak uygulamayı başlatabilirsiniz,bu işlemden sonra 8080 numaralı portda (http://localhost:8080) bir web sunucusu başlatır.
+com.cinema.Cinema classını çalıştırarak uygulamayı başlatabilirsiniz,bu işlemden sonra 8080 numaralı portda (http://localhost:8080) bir web sunucusu başlatılır.
 Çıkan sayfada SwaggerUI üzerinden istediğiniz işlemleri yapabilirsiniz.
 
 Bu projede kullanılan teknolojiler aşağıda verilmiştir:
